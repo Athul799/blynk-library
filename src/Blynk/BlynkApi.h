@@ -36,7 +36,7 @@
 #endif
 
 #if !defined(BLYNK_TEMPLATE_ID) || !defined(BLYNK_TEMPLATE_NAME)
-    #error "Please specify your BLYNK_TEMPLATE_ID and BLYNK_TEMPLATE_NAME"
+    #error "TMPL3CBroEWtl""water level controller"
 #endif
 
 #include <Blynk/BlynkConfig.h>
